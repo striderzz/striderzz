@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Front End Development, Python**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" >
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" >
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
