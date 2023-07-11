@@ -6,8 +6,9 @@
 - 💬 Ask me about **Front End Development, Python**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" >
 <p align="left">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+</p>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/hasan28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hasan28" height="30" width="40" /></a>
 </p>
 
