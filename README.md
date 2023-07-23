@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate JavaScript Frontend, Python Developer</h3>
 
-- 🌱 I’m currently learning **React, JavaScript, Python**
+- 🌱 I’m currently learning **Django, JavaScript, Python**
 
 - 💬 Ask me about **Front End Development, Python**
 
