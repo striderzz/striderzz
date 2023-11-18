@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate JavaScript Frontend, Python Developer</h3>
+<h3 align="center">A passionate Frontend, Unity Developer Python Developer</h3>
 
-- 🌱 I’m currently learning **Django, JavaScript, Python**
+- 🌱 I’m currently learning **Unreal, React, JavaScript, Python**
 
-- 💬 Ask me about **Front End Development, Python**
+- 💬 Ask me about **Front End Development, Game Development, Unity,  Python**
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" >
 <h3 align="left">Connect with me:</h3>
