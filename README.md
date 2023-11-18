@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate Frontend, Unity Developer,  Python Developer</h3>
 
-- 🌱 I’m currently learning **Unreal, React, JavaScript, and Python*
+- 🌱 I’m currently learning **Unreal, React, JavaScript**
 
 - 💬 Ask me about **Front End Development, Game Development, Unity,  Python**
 
