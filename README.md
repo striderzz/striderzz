@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unreal, React, BackEnd Dev**
 
-- 💬 Ask me about **Front End Web Development, Unity, Unreal Game Development, Unity,  Python**
+- 💬 Ask me about **Front End Web Development, Unity, Unreal Game Development, Python Programming**
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" >
 <h3 align="left">Connect with me:</h3>
