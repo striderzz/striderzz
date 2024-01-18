@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A software engineer, web developer, game developer</h3>
+<h3 align="center">A Software Engineer, Front End Developer, Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=striderzz&label=Profile%20views&color=0e75b6&style=flat" alt="striderzz" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=striderzz" alt="striderzz" /></a> </p>
 
-- 🌱 I’m currently learning **Django5, Machine Learning**
+- 🌱 I’m currently learning **Django5, Machine Learning, ScikitLearn, Tensorflow**
 
 - 💬 Ask me about **Python Progamming, Unity Game Development, Django5**
 
@@ -17,5 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&show_icons=true&locale=en&layout=compact" alt="striderzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en" alt="striderzz" /></p>
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" >
