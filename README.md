@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django5, Machine Learning, Flask**
 
-- 💬 Ask me about **Python Progamming, Unity Game Development, Django5**
+- 💬 Ask me about **Python Progamming, Unity Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
