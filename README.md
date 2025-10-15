@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A Software Engineer, Full Stack Developer, Game Developer</h3>
 
-- 🌱 I’m currently learning ** Cloud Computing, Machine Learning, Flask**
+- 🌱 I’m currently learning **Cloud Computing, Machine Learning, Flask**
 
 - 💬 Ask me about **Python Progamming, Machine Learning, Databases, Flask, Django, Unity Game Development**
 
