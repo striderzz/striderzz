@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">Software Engineer · ML / AI Engineer · Full Stack Developer · Game Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Hi%2C%20I'm%20Hasan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20%C2%B7%20ML%20%2F%20AI%20%C2%B7%20Game%20Developer&descAlignY=58&descSize=18" alt="Hi, I'm Hasan" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/striderzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=2EA8E6&center=true&vCenter=true&width=640&lines=Building+AI+agents+with+LangGraph+%F0%9F%A4%96;Shipping+full-stack+apps+with+FastAPI+%26+Flask+%E2%9A%A1;Training+models+with+PyTorch+%F0%9F%A7%A0;Making+games+in+Unity+%F0%9F%8E%AE" alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=striderzz&style=flat-square&color=2c5364&label=profile+views" alt="profile views"/>
+  <a href="https://github.com/striderzz/JobQuest.AI"><img src="https://img.shields.io/badge/Latest-JobQuest.AI-0f2027?style=flat-square&logo=github" alt="Latest project"/></a>
+</p>
 
 - 🚀 Latest: **[JobQuest.AI](https://github.com/striderzz/JobQuest.AI)**, an AI co-pilot for the job hunt (FastAPI, 10 LLM providers, analytics, desktop app)
 
@@ -43,6 +53,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[Snake 3D](https://github.com/striderzz/Snake-Game-Unity-Project)** | The classic Snake game in 3D | Unity, C# |
+| **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)** | 2D platformer game and starter template | Unity, C# |
 | **[Top-Down Tank](https://github.com/striderzz/TopDownTank)** | Top-down tank controller | Unity, C# |
 | **[File Sorter](https://github.com/striderzz/FileSorterApp)** | Offline file sorter with a CLI and a Tkinter GUI | Python |
 
@@ -60,3 +71,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=striderzz&" alt="striderzz" /></p>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" >
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/striderzz/striderzz/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/striderzz/striderzz/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
