@@ -9,6 +9,11 @@
 
 Software engineer in Mumbai building **agentic AI systems**, **MLOps** pipelines and **full-stack** apps. M.S. Computer Engineering, UT Dallas.
 
+### GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" width="320"/>
+
 ### Personal Projects
 
 - **[JobQuest.AI](https://github.com/striderzz/JobQuest.AI)**: AI job-hunt co-pilot with multi-LLM ranking, tracker and analytics. *FastAPI, LLMs*
@@ -18,8 +23,3 @@ Software engineer in Mumbai building **agentic AI systems**, **MLOps** pipelines
 - **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: full-stack app, Dockerised and deployed on AWS. *Flask, MongoDB*
 - **[PyTorch Transfer Learning](https://github.com/striderzz/PyTorch-Transfer-Learning)**: food image classifier. *PyTorch, EfficientNet-B0*
 - **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)**: 2D platformer game. *Unity, C#*
-
-### GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" width="320"/>
