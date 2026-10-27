@@ -48,6 +48,7 @@ on SQL and MongoDB, through to packaged desktop apps.
 ![Unity](https://img.shields.io/badge/Unity-14305e?style=flat-square&logo=unity&logoColor=white)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-14305e?style=flat-square&logo=claude&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-14305e?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-14305e?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-14305e?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
