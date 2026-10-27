@@ -11,8 +11,8 @@ Software engineer in Mumbai building **agentic AI systems**, **MLOps** pipelines
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" width="49%"/>
 
 ### Personal Projects
 
