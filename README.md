@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a3a,100:14305e&height=180&section=header&text=Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=60&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:14305e&height=130&section=header&text=Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=74&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
 </p>
 
-I'm an ML / AI engineer with an **M.S. in Computer Science from The University of Texas at Dallas**. I build machine
+I'm an ML / AI engineer with an **M.S. in Computer Engineering from The University of Texas at Dallas**. I build machine
 learning models, LLM agents and RAG pipelines, and the backend and deployment work that takes them to production
 (Python, PyTorch, LangGraph, FastAPI, Docker, AWS).
 
@@ -35,4 +35,3 @@ Django · SQL · MongoDB · Docker · AWS · JavaScript / React · Unity (C#)
 - **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: Flask + MongoDB app, Dockerised and deployed on AWS.
 - **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)**: 2D platformer game in Unity (C#).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14305e,100:0a1a3a&height=100&section=footer" width="100%"/>
