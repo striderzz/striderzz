@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:14305e&height=130&section=header&text=Hasan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=74&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
 </p>
 
-I'm an ML / AI engineer with an **M.S. in Computer Engineering from The University of Texas at Dallas**. I build machine
+I'm an ML / AI engineer with an **M.S. in Computer Engineering from The University of Texas at Dallas (2024 - Aug 2026)**. I build machine
 learning models, LLM agents and RAG pipelines, and the backend and deployment work that takes them to production
 (Python, PyTorch, LangGraph, FastAPI, Docker, AWS).
 
