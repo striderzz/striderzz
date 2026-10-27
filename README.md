@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=60&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA8E6&center=true&vCenter=true&width=620&lines=LLM+agents+and+RAG+systems;ML+models+from+training+to+production;Full-stack+apps+with+FastAPI+and+Flask" alt="LLM agents, ML in production, full-stack apps"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a3a,100:14305e&height=180&section=header&text=Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=60&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
 </p>
 
 I'm an ML / AI engineer with an **M.S. in Computer Science from The University of Texas at Dallas**. I build machine
@@ -13,11 +9,11 @@ learning models, LLM agents and RAG pipelines, and the backend and deployment wo
 ## GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&theme=transparent" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" height="165"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=striderzz&hide_border=true&background=00000000" alt="Contribution streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=striderzz&hide_border=true&background=ffffff&ring=14305e&fire=14305e&currStreakLabel=14305e" alt="Contribution streak" height="165"/>
 </p>
 
 <picture>
@@ -39,4 +35,4 @@ Django · SQL · MongoDB · Docker · AWS · JavaScript / React · Unity (C#)
 - **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: Flask + MongoDB app, Dockerised and deployed on AWS.
 - **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)**: 2D platformer game in Unity (C#).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14305e,100:0a1a3a&height=100&section=footer" width="100%"/>
