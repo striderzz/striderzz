@@ -15,14 +15,11 @@ learning models, LLM agents and RAG pipelines, and the backend and deployment wo
 **Tools:** Python · PyTorch · scikit-learn · pandas · LangChain / LangGraph · OpenAI / Gemini APIs · FastAPI · Flask ·
 Django · SQL · MongoDB · Docker · AWS · JavaScript / React · Unity (C#)
 
-## Key projects
+## Personal Projects
 
 - **[JobQuest.AI](https://github.com/striderzz/JobQuest.AI)**: AI job-hunt co-pilot that ranks jobs against your resume, with a multi-LLM coach and analytics (FastAPI).
-- **[Multi-Agent Nutrition Coach](https://github.com/striderzz/langgraph-multiagent-nutrition-coach)**: LangGraph agents that build nutrition plans.
-- **[ReAct AI Agent](https://github.com/striderzz/AI-Agent-Langraph)**: LangGraph agent with Tavily web search.
-- **[SQL AI Agent](https://github.com/striderzz/SQL_AI_AGENT)**: natural-language questions to SQL.
-- **[Math AI Agent](https://github.com/striderzz/Math-AI-Agent-Langraph)**: deterministic math agent in LangGraph.
-- **[PyTorch Transfer Learning](https://github.com/striderzz/PyTorch-Transfer-Learning)**: EfficientNet-B0 food image classifier.
-- **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: Flask + MongoDB app, Dockerised and deployed on AWS.
+- **[NutriCoach](https://github.com/striderzz/langgraph-multiagent-nutrition-coach)**: multi-agent nutrition coach built with LangGraph and GPT-4o-mini.
+- **[KeepNotes (MERN)](https://github.com/striderzz/MERN-Notes-App)**: Google Keep-style notes app with React, Express and MongoDB Atlas.
 - **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)**: 2D platformer game in Unity (C#).
-
+- **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: Flask + MongoDB app, Dockerised and deployed on AWS.
+- **[PyTorch Transfer Learning](https://github.com/striderzz/PyTorch-Transfer-Learning)**: EfficientNet-B0 food image classifier.
