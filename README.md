@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:14305e&height=130&section=header&text=Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=74&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:14305e&height=130&section=header&text=Hasan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Engineer&descAlignY=74&descSize=20" alt="Hasan - ML Engineer | MLOps | AI Engineer" width="100%"/>
 </p>
 
 I'm an ML / AI engineer with an **M.S. in Computer Engineering from The University of Texas at Dallas**. I build machine
@@ -12,15 +12,6 @@ learning models, LLM agents and RAG pipelines, and the backend and deployment wo
   <img src="https://github-readme-stats.vercel.app/api?username=striderzz&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=striderzz&layout=compact&locale=en&hide_border=true&bg_color=ffffff&title_color=14305e&icon_color=14305e&text_color=24292f" alt="Top languages" height="165"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=striderzz&hide_border=true&background=ffffff&ring=14305e&fire=14305e&currStreakLabel=14305e" alt="Contribution streak" height="165"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/striderzz/striderzz/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/striderzz/striderzz/output/github-contribution-grid-snake.svg">
-</picture>
-
 **Tools:** Python · PyTorch · scikit-learn · pandas · LangChain / LangGraph · OpenAI / Gemini APIs · FastAPI · Flask ·
 Django · SQL · MongoDB · Docker · AWS · JavaScript / React · Unity (C#)
 
