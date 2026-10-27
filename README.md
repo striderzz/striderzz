@@ -39,9 +39,17 @@ on SQL and MongoDB, through to packaged desktop apps.
 ![SQLite](https://img.shields.io/badge/SQLite-14305e?style=flat-square&logo=sqlite&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-14305e?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-14305e?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-14305e?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-14305e?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-14305e?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-14305e?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-14305e?style=flat-square&logo=gitlab&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-14305e?style=flat-square&logo=unity&logoColor=white)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-14305e?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-14305e?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-14305e?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 ### GitHub
 
