@@ -20,6 +20,6 @@ Software engineer in Mumbai building **agentic AI systems**, **MLOps** pipelines
 - **[NutriCoach](https://github.com/striderzz/langgraph-multiagent-nutrition-coach)**: multi-agent nutrition coach with a critic-revise loop. *LangGraph, GPT-4o-mini*
 - **[RAG Document QA](https://github.com/striderzz/RAG_Project1)**: question answering over PDFs. *LangChain, ChromaDB, Gemini*
 - **[KeepNotes (MERN)](https://github.com/striderzz/MERN-Notes-App)**: Google Keep-style notes app. *React, Express, MongoDB*
-- **[Recipe Manager on AWS](https://github.com/striderzz/recipe-manager-flask-mongodb-aws)**: full-stack app, Dockerised and deployed on AWS. *Flask, MongoDB*
+- **[Recipe Manager on AWS](https://github.com/striderzz/Recipe-Manager-Flask-MongoDB-AWS)**: full-stack app, Dockerised and deployed on AWS. *Flask, MongoDB*
 - **[PyTorch Transfer Learning](https://github.com/striderzz/PyTorch-Transfer-Learning)**: food image classifier. *PyTorch, EfficientNet-B0*
 - **[2D Platformer](https://github.com/striderzz/2D-Platformer-Unity)**: 2D platformer game. *Unity, C#*
